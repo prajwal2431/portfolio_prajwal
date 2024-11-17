@@ -1,0 +1,38 @@
+[
+  {
+    "name": "parkease",
+    "desc": "Parking Management System",
+    "image": "parkease",
+    "category": "webapp",
+    "links": {
+      "code": "https://github.com/0Bhavesh0/park-my-car.git"
+    }
+  },
+  {
+    "name": "REEGA",
+    "desc": "Real-time environmental exploration and guidance assistant",
+    "image": "reega",
+    "category": "webapp",
+    "links": {
+      "code": "https://github.com/prajwal2431/REEGA-AI"
+    }
+  },
+  {
+    "name": "Sign-Language Translator",
+    "desc": "Sign-Language Translator",
+    "image": "sign-lang",
+    "category": "webapp",
+    "links": {
+      "code": "https://github.com/prajwal2431/Sign-Language-Translator"
+    }
+  },
+  {
+    "name": "Face Detection",
+    "desc": "Face Detector using YOLO",
+    "image": "",
+    "category": "webapp",
+    "links": {
+      "code": "https://github.com/prajwal2431/face-Detection-using-YOLO"
+    }
+  }
+]
