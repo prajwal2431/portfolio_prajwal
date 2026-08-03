@@ -1,14 +1,25 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript.
+# Prajwal Nivangune — Portfolio
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+Modern portfolio focused on **Agentic AI Engineering** and **Cloud Data Engineering**.
 
-<h2>📬 Contact</h2>
+## Stack
 
+- React 18 + TypeScript + Vite
+- Framer Motion
+- CSS variables for light / dark themes
 
-If you want to contact me, you can reach me through below handles.
+## Develop
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prajwal-nivangune/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+```bash
+npm install
+npm run dev
+```
 
-© 2024 prajwal Nivangune
+## Build
+
+```bash
+npm run build
+npm run preview
+```
+
+Legacy static site files are preserved under `_legacy/`.
