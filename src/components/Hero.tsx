@@ -99,7 +99,7 @@ export default function Hero() {
             <div className="portrait-frame">
               <img
                 className="portrait-img"
-                src="/hero-portrait.jpg"
+                src={`${import.meta.env.BASE_URL}hero-portrait.jpg`}
                 alt="Prajwal Nivangune"
               />
             </div>

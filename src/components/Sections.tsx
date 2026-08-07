@@ -22,7 +22,11 @@ export function Focus() {
     <section className="section" id="about">
       <div className="container about-bento">
         <motion.article className="about-main" {...fade}>
-          <img src="/portrait.jpg" alt="Prajwal Nivangune" className="about-photo" />
+          <img
+            src={`${import.meta.env.BASE_URL}portrait.jpg`}
+            alt="Prajwal Nivangune"
+            className="about-photo"
+          />
           <div>
             <p className="eyebrow">About</p>
             <h2 className="section-title">Building agents & data systems that hold up</h2>
